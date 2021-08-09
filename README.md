@@ -3,8 +3,11 @@
 A simple re-make of Alien Invaders to learn more about Python Classes and Functions.
 
 Controls:
+
 Left arrow to move left.
+
 Right arrow to move right.
+
 Spacebar to fire blaster.
 
 Instructions:
